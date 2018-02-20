@@ -16,5 +16,7 @@ CS      5 (GPIO5)    -->      CS
 PIN PD HOTMCU
 
 One resistor of 47K to 3,3v
+
 One condensator of 100k (o,1uF) to GND
+
 The union to pin PD screen FT8xx

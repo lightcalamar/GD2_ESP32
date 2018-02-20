@@ -1,0 +1,3 @@
+https://github.com/playelek/pinout-doit-32devkitv1
+
+https://github.com/Nicholas3388/LuaNode

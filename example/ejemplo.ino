@@ -41,7 +41,7 @@ void drawMainText() {
   GD.cmd_text(GD.w / 2, GD.h / 2 + 20 , 30, OPT_CENTER, "Processor: ESP32 WROOM-2");
   GD.cmd_text(GD.w / 2, GD.h / 2 + 50 , 30, OPT_CENTER, "Graphics library: Modified Gameduino2/3");
   GD.cmd_text(GD.w / 2, GD.h / 2 + 80 , 29, OPT_CENTER, "Display controller board: HOTMCU with FT810");
-  GD.cmd_text(GD.w / 2, GD.h / 2 + 110, 29, OPT_CENTER  "Display: 5'' 800x480");
+  GD.cmd_text(GD.w / 2, GD.h / 2 + 110, 29, OPT_CENTER, "Display: 5'' 800x480");
 
 }
 
